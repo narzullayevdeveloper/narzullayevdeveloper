@@ -1,5 +1,19 @@
 <h1 align="center">Hi 👋, I'm Frontend Developer</h1>
 <br>
+
+<div>
+  <h2>Soft Skills</h1>
+<div>
+    <p>⭐ Effective communication skills, both verbal and written, to convey ideas clearly, collaborate with team members, and understand project requirements.</p>
+  <p>🛠️ Strong problem-solving skills to analyze issues, identify root causes, and come up with innovative solutions when faced with technical challenges.</p>  
+  <p>📘 Ability to adapt to new technologies, frameworks, and changing project requirements, demonstrating flexibility and openness to learning.</p>
+  <p>☪️ Demonstrate trustworthiness and ethical behavior in all aspects of life, both personal and professional.</p>
+  <p>💵 Implemented resource optimization strategies, including leveraging reusable code libraries and efficient development tools, resulting in cost savings and streamlined project delivery</p>
+
+</div>
+</div>
+
+<br>
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
