@@ -24,6 +24,8 @@
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.flaticon.com/free-icons/youtube" title="youtube icons">Youtube icons created by Freepik - Flaticon</a>
+    <a href="https://youtube.com">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/2048px-YouTube_social_white_square_%282017%29.svg.png" width="512" height="512" alt="" />
+    </a>
 </p>
 </div>
