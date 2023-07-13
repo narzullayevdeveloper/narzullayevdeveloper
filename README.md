@@ -37,8 +37,14 @@
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 <div>
-  <a href="https://telegram.org/narzullayev_developer">
+  <a href="https://t.me/narzullayev_developer">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" style="width: 50px; height: 50px" alt="telegram" />
+  </a>
+  <a href="https://t.me/narzullayev_developer">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" style="width: 50px; height: 50px" alt="linkedin" />
+  </a>
+  <a href="https://t.me/narzullayev_developer">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/youtube.png" style="width: 50px; height: 50px" alt="youtube" />
   </a>
 </div>
   
