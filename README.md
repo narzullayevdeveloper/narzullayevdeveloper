@@ -24,8 +24,6 @@
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://youtube.com">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/2048px-YouTube_social_white_square_%282017%29.svg.png](https://cdn.icon-icons.com/icons2/2657/PNG/256/youtube_icon_161083.png)https://cdn.icon-icons.com/icons2/2657/PNG/256/youtube_icon_161083.png](https://cdn.icon-icons.com/icons2/2657/PNG/256/youtube_icon_161083.png)https://cdn.icon-icons.com/icons2/2657/PNG/256/youtube_icon_161083.png" width="512" height="512" alt="" />
-    </a>
+    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABD0lEQVRIS+2VYQ3CQAyFmQNwAA5AAeAAHOAAHBAUIIHgAAfgAByAA3AA/ZYrOcpy3bLt35o0t93avutre8t6LUvWcvxeB+AybCkai8dCdCraj1QDsYe8CtZH2N/JynMuMQDBzyGoezLHYCLfbxbgIBurupGD/0nWpQXg9LOGAKBoZAHusjFMAHCivWOj7tRoYAGeDv9ar00A8pLN7eMivx2P2JZuIptUzWoDbAOAtq493x9AGYoIxpwQPFWvLztx2h7APNDCvHhS2EVX8Srj7AXnO0PGsP0UmaLRIU1I4aDBKbPQhEDnxWbAOxStRQFD9cJLgTJUqnB/FCWDXKr+cOKW1Bs1mXFVgMr0dQAuZR9BcygZ+5oPugAAAABJRU5ErkJggg=="/>
 </p>
 </div>
