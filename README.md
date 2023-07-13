@@ -36,7 +36,7 @@
 <br>
 <div align="center">
 <h3 align="center">Connect with me:</h3>
-<div style="display: flex; flex-direction: row; align-items: center; gap: 20px">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
   <a href="https://t.me/narzullayev_developer">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" style="width: 50px; height: 50px" alt="telegram" />
   </a>
