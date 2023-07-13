@@ -1,1 +1,1 @@
-<center><h1>Frontend Developer</h1></center>
+<h1 style="text-align: center">Frontend Developer</h1>
