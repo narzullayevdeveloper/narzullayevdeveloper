@@ -3,7 +3,7 @@
 <tr border="0">
 <td width="50%" align="center">
 
-  ![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true)
+  ![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true&theme=dark)
 
    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="center" width=396 src="https://github-readme-stats.vercel.app/api?username=sudip-mondal-2002&show_icons=true&theme=react&border_color=61dafb"/>  </a>
