@@ -3,7 +3,7 @@
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
- ![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=narzullayevdeveloper&show_icons=true&include_all_commits=true)]
+![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=narzullayevdeveloper&show_icons=true&include_all_commits=true)
 </td>
 <td width="50%" align="center">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
