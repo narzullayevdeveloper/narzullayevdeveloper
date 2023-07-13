@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frontend Developer</h1>
-Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+<div style="display: flex">
+<h2>Skills</h2> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+</div>  
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
