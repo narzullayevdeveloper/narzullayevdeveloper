@@ -23,7 +23,8 @@
 <br>
 <div align="center">
 <h3 align="center">Connect with me:</h3>
+  
 <p align="center">
-    <img src="https://www.liblogo.com/img-logo/yo482f28b-youtube-icon-logo-free-youtube-logo-icon-symbol-png-svg-download.png" alt="youtube">
+    <img src="https://toppng.com/uploads/preview/youtube-logo-transparent-png-pictures-transparent-background-youtube-logo-11562856729oa42buzkng.png" alt="youtube">
 </p>
 </div>
