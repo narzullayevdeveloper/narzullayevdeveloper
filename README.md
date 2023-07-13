@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frontend Developer</h1>
 <br>
-
 <div>
   <h2>🙂 Soft Skills</h1>
 <div>
@@ -37,6 +36,9 @@
 <br>
 <div align="center">
 <h3 align="center">Connect with me:</h3>
+<div>
+  
+</div>
   
 <p align="center">
     
