@@ -29,10 +29,16 @@
 <br>
 <br>
 <div align="center">
-<h3><b>Connect With Me</b></h3>
-</div>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/rock12231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="rock12231" height="30" width="40" /></a>
-<a href="https://twitter.com/rock12231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rock12231" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rock1223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rock1223" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/sudip16022002" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/facebook-2038471-1718509.png" alt="facebook" height="40"
+            width="40" /></a>
+    <a href="https://www.linkedin.com/in/sudip-mondal-374a12201/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
+            width="40" /></a>
+    <a href="https://www.instagram.com/sudip._.mondal/" target="blank"><img align="center"
+            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
+            width="40" /></a>
 </p>
+</div>
