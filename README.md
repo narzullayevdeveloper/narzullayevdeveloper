@@ -46,6 +46,9 @@
   <a href="https://t.me/narzullayev_developer">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/youtube.png" style="width: 50px; height: 50px" alt="youtube" />
   </a>
+  <a href="https://t.me/narzullayev_developer">
+  <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" style="width: 50px; height: 50px" alt="gmail" />
+  </a>
 </div>
   
 <p align="center">
