@@ -25,6 +25,6 @@
 <h3 align="center">Connect with me:</h3>
   
 <p align="center">
-    <img src="https://toppng.com/uploads/preview/youtube-logo-transparent-png-pictures-transparent-background-youtube-logo-11562856729oa42buzkng.png" alt="youtube">
+    
 </p>
 </div>
