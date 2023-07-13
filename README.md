@@ -37,7 +37,9 @@
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 <div>
+  <a href="https://telegram.org/narzullayev_developer">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" style="width: 50px; height: 50px" alt="telegram" />
+  </a>
 </div>
   
 <p align="center">
