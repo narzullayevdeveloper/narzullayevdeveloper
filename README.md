@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frontend Developer</h1>
 <br>
 <div>
-  <h2>🙂 Soft Skills</h1>
+  <h2>🙂 Soft Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h1>
 <div>
     <p width="300">⭐ Effective communication skills, both verbal and written, to convey ideas clearly, collaborate with team members, and understand project requirements.</p>
   <p>🛠️ Strong problem-solving skills to analyze issues, identify root causes, and come up with innovative solutions when faced with technical challenges.</p>  
