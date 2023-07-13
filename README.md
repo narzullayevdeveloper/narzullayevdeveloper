@@ -12,7 +12,7 @@
 </tr>
 </table>
 <h2>Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;</h2> 
-<br />
+<br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs,firebase&perline=14" />
@@ -26,7 +26,7 @@
 <div align="center">
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narzullayevdeveloper" alt="narzullayevdeveloper" /></a></p>
 </div>
-
+<br>
 <br>
 <div align="center">
 <h3><b>Connect With Me</b></h3>
