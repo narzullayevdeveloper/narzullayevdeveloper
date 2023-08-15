@@ -37,18 +37,26 @@
 <div align="center">
 <h3 align="center">Connect with me:</h3>
 <div>
+  <div style="margin-right: 20px">
   <a href="https://t.me/narzullayev_developer">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" style="width: 50px; height: 50px;" alt="telegram" />
   </a>
+    </div>
+  <div>
   <a href="Link">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" style="width: 50px; height: 50px" alt="linkedin" />
   </a>
+  </div>
+  <div>
   <a href="https://github.com/narzullayevdeveloper">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" style="width: 50px; height: 50px" alt="twitter" />
   </a>
+  </div>
+  <div>
   <a href="narzullayevjavohir91@gmail.com">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" style="width: 50px; height: 50px" alt="gmail" />
   </a>
+  </div>
 </div>
   
 <p align="center">
