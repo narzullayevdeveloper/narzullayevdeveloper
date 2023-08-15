@@ -36,14 +36,14 @@
 <br>
 <div align="center">
 <h3 align="center">Connect with me:</h3>
-<div>
-  <div style="margin-right: 20px">
+<div style="display: flex; flex-direction: row; gap: 30px;">
+  <div>
   <a href="https://t.me/narzullayev_developer">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" style="width: 50px; height: 50px;" alt="telegram" />
   </a>
     </div>
   <div>
-  <a href="Link">
+  <a href="https://www.linkedin.com/in/javohir-narzullayev-586342235">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" style="width: 50px; height: 50px" alt="linkedin" />
   </a>
   </div>
