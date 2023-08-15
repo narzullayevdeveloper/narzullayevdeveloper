@@ -44,7 +44,7 @@
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" style="width: 50px; height: 50px" alt="linkedin" />
   </a>
   <a href="https://github.com/narzullayevdeveloper">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" style="width: 50px; height: 50px" alt="twitter" />
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" style="width: 50px; height: 50px" alt="twitter" />
   </a>
   <a href="narzullayevjavohir91@gmail.com">
   <img src="https://github.com/dheereshagrwal/colored-icons/blob/master/images/gmail.png" style="width: 50px; height: 50px" alt="gmail" />
